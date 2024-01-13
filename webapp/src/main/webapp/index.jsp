@@ -6,7 +6,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: blue; /* Change the background color to light blue */
+            background-color: white; /* Change the background color to light blue */
             color: white; /* Change the font color to white */
             margin: 0;
         }
