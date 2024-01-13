@@ -19,8 +19,8 @@
         }
 
         .container {
-            background-color: white;
-            padding: 20px;
+            background-color: lightblue;
+            padding: 30px;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             width: 300px;
@@ -28,7 +28,7 @@
         }
 
         h1 {
-            color: red;
+            color: blue;
             text-align: center;
             margin-top: 20px;
         }
