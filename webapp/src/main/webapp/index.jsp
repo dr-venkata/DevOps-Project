@@ -6,7 +6,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: lightblue; /* Change the background color to light blue */
+            background-color: blue; /* Change the background color to light blue */
             color: white; /* Change the font color to white */
             margin: 0;
         }
@@ -39,8 +39,7 @@
 
 <form action="action_page.php">
     <div class="container">
-        <h1>User Registration for DevOps Learning with Shetty IT Solutions</h1>
-        <p>Provide the following details to register for the course.</p>
+        <h1>Registration Shetty-IT-Solutions</h1>
         <hr>
 
         <label for="Name"><b>Enter Name</b></label>
