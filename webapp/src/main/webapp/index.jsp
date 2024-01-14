@@ -76,7 +76,7 @@
     </div>
 </form>
 
-<h1> Thank you, Happy Learning with Dr. Venkata Ramana @Shetty-IT-Solutions</h1>
+<h1> Thank you, Happy Learning with Dr. Maduru Venkata Ramana @Shetty-IT-Solutions</h1>
 <h1> Shetty IT Solutions for hands-on DevOps Projects</h1>
 
 </body>
